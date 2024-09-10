@@ -1,9 +1,5 @@
-## Hi there 👋
-
-
-TrillDaBest/TrillDaBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi there 👋
+ My name is Ronit Prajith, i am 21 years old. Currently learning about JAVA and NodeJS.
 
 - 🔭 I’m currently working on JAVA Projects
 - 🌱 I’m currently learning JAVA, NodeJS
