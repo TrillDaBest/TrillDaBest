@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with general programming and ai/ml.
 - 💬 Ask me about myself
 - 📫 How to reach me: You can reach out to me via my email : ronitprajith8@gmail.comn
-- 😄 Pronouns: HE/HINM
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: Nothing
 
