@@ -1,5 +1,5 @@
- Hi there 👋
- My name is Ronit Prajith, i am 21 years old. Currently learning about JAVA and NodeJS.
+
+ My name is Ronit, i am 23 years old. Currently learning about JAVA and NodeJS.
 
 - 🔭 I’m currently working on JAVA Projects
 - 🌱 I’m currently learning JAVA, NodeJS
@@ -7,6 +7,5 @@
 - 🤔 I’m looking for help with general programming and ai/ml.
 - 💬 Ask me about myself
 - 📫 How to reach me: You can reach out to me via my email : ronitprajith8@gmail.comn
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Nothing
+
 
