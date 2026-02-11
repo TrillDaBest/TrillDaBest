@@ -1,5 +1,5 @@
 
- My name is Ronit, i am 23 years old. Currently learning about JAVA and NodeJS.
+ My name is Ronit! Currently learning JAVA and NodeJS.
 
 - 🔭 I’m currently working on JAVA Projects
 - 🌱 I’m currently learning JAVA, NodeJS
